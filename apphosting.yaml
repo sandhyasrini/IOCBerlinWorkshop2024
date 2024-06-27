@@ -15,5 +15,3 @@ env:
     value: TODO
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
     value: TODO
-  - variable: API_KEY_GEMINI
-    secret: AIzaSyAs62k1-iFkGXNLXIg4chjdE9erEUe1Z_w
